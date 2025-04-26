@@ -1,2 +1,3 @@
 # SLICE
-Single-function Logic Interface &amp; Controller Element.
+
+Single-function Logic Interface and Controller Element.
