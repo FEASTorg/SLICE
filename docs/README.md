@@ -1,3 +1,3 @@
-# SLICE
+# Docs
 
-Single-function Logic Interface and Controller Element.
+This is where the docs are kept!
