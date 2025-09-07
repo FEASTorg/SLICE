@@ -1,3 +1,3 @@
-# [SLICE](https://feastorg.github.io/SLICE/)
+# [SLICE](https://feastorg.github.io/projects/slice/)
 
 Single-function Logic Interface and Controller Element.
